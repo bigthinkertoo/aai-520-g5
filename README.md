@@ -1,2 +1,2 @@
-# aai-520-g5
+# Investment Research Agent
 AAI 520 Group 5 Class Project
